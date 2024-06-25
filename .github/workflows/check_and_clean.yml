@@ -1,0 +1,24 @@
+name: Weekly DNS Check
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 1:00 AM UTC every Monday
+    - cron: '0 1 * * 1'
+
+jobs:
+  check-dns:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up dig
+      run: sudo apt-get install -y dnsutils
+
+    - name: Make script executable
+      run: chmod +x ./.github/check_and_clean.sh
+
+    - name: Run DNS check script
+      run: ./.github/check_and_clean.sh HOSTS.txt
