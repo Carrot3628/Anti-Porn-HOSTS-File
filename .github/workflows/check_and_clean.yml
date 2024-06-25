@@ -22,3 +22,10 @@ jobs:
 
     - name: Run DNS check script
       run: ./.github/check_and_clean.sh HOSTS.txt
+
+    - name: Replace the HOSTS file
+      run: |
+      git add .
+      git commit -m "Removed unaccessible sites"
+      git config user.name "Carrot3628"
+      git config user.email "166365286+Carrot3628@users.noreply.github.com"
