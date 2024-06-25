@@ -19,7 +19,6 @@ jobs:
 
     - name: Make script executable
       run: |
-        chmod +x ./.github/check_and_clean.sh
         ls -la
         pwd
 
