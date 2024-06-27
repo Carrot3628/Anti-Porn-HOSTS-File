@@ -7,8 +7,20 @@ OUTPUT_FILE="reachable_domains.txt"
 # Clear the output file
 > $OUTPUT_FILE
 
+# Initialize line counter
+line_count=0
+
 # Read each line from the input file
 while IFS= read -r line; do
+    # Increment line counter
+    ((line_count++))
+    
+    # Stop processing if line count exceeds 3000
+    if [ "$line_count" -gt 3000 ]; then
+        echo "Reached maximum limit of 3000 lines. Stopping processing."
+        break
+    fi
+    
     # Skip empty lines and comment lines
     [[ -z "$line" || "$line" =~ ^# ]] && continue
     
