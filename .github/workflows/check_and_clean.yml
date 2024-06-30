@@ -21,7 +21,7 @@ jobs:
       run: chmod +x .github/check-curl.sh
 
     - name: Run HTTP/HTTPS check script
-      run: ./.github/check-curl.sh
+      run: ./.github/check-curl.sh HOSTS.txt
 
     - name: Replace the HOSTS file
       run: |
