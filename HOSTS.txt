@@ -14,6 +14,7 @@
 0.0.0.0    0lovespells0.blogspot.com
 0.0.0.0    0magnet.com
 0.0.0.0    0n-line.tv
+0.0.0.0    yazhouseba.com
 0.0.0.0    0q2.sitey.me
 0.0.0.0    0xxx-ws.zproxy.org
 0.0.0.0    0xxx.ws
