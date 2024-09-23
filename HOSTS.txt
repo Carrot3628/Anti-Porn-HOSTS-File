@@ -64,7 +64,6 @@
 0.0.0.0    123video.nl
 0.0.0.0    12masterov.com
 0.0.0.0    12xhardcore.com
-0.0.0.0    1314dh.com
 0.0.0.0    1337x.freepornxxxhd.com
 0.0.0.0    1337x.to
 0.0.0.0    140cc.v.fwmrm.net
@@ -736,14 +735,10 @@
 0.0.0.0    a5.x-traceur.com
 0.0.0.0    a7.x-traceur.com
 0.0.0.0    a737slave.tumblr.com
-0.0.0.0    aa08daf7e13b6345e09e92f771507fa5f4.com
-0.0.0.0    aa14ab57a3339c4064bd9ae6fad7495b5f.com
 0.0.0.0    aa2cc.booru.org
 0.0.0.0    aa2share.booru.org
-0.0.0.0    aa81bf391151884adfa3dd677e41f94be1.com
 0.0.0.0    aaannuairex.com
 0.0.0.0    aaaporn.net
-0.0.0.0    aab94f698f36684c5a852a2ef272e031bb.com
 0.0.0.0    aabj.net
 0.0.0.0    aagmaal.cc
 0.0.0.0    aagmaal.club
