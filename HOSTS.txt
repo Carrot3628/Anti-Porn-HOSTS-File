@@ -377,7 +377,6 @@
 0.0.0.0    3dpassport.com
 0.0.0.0    3dporn.com.es
 0.0.0.0    3dporn.vip
-0.0.0.0    3dpornbomb.xyz
 0.0.0.0    3dporndude.com
 0.0.0.0    3dpornmovies.blogspot.com
 0.0.0.0    3dpornxxx.com
@@ -862,7 +861,6 @@
 0.0.0.0    acmejoy.com
 0.0.0.0    acneuro.pl
 0.0.0.0    acompanhantealtoluxo.blogspot.com
-0.0.0.0    acompanhantes-curitiba.com
 0.0.0.0    acompanhantes.pt
 0.0.0.0    acompanhantescascavel.blogspot.com
 0.0.0.0    acompanhantesdeluxo.eu
