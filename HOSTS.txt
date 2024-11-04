@@ -313,7 +313,6 @@
 0.0.0.0    2chickssametime.naughtyamerica.com
 0.0.0.0    2d-market.com
 0.0.0.0    2girls1cup.cc
-0.0.0.0    2japaneseporn.com
 0.0.0.0    2jav.com
 0.0.0.0    2jav.net
 0.0.0.0    2knowu.tumblr.com
@@ -697,7 +696,6 @@
 0.0.0.0    9hentai.info
 0.0.0.0    9inzgin.top
 0.0.0.0    9mag.net
-0.0.0.0    9med.net
 0.0.0.0    9thaiav.blogspot.com
 0.0.0.0    9vids.com
 0.0.0.0    9xlove.xyz
@@ -741,7 +739,6 @@
 0.0.0.0    aagmaal.pw
 0.0.0.0    aagmaal.run
 0.0.0.0    aagmaal.sbs
-0.0.0.0    aagmaal.skin
 0.0.0.0    aagmaal.xyz
 0.0.0.0    aagmaals.com
 0.0.0.0    aagmaals.net
