@@ -322,7 +322,6 @@
 0.0.0.0    2slavesmaster.tumblr.com
 0.0.0.0    2step-garage.co.uk
 0.0.0.0    2umovies.com
-0.0.0.0    2umovies.org
 0.0.0.0    2w3e.blog23.fc2.com
 0.0.0.0    2wjk.tumblr.com
 0.0.0.0    2xo.me
@@ -420,7 +419,6 @@
 0.0.0.0    3isx.com
 0.0.0.0    3javdaily.com
 0.0.0.0    3jicosplay.blog.fc2.com
-0.0.0.0    3maturesex.com
 0.0.0.0    3movs.com
 0.0.0.0    3movs.fun
 0.0.0.0    3movs.xyz
@@ -449,7 +447,6 @@
 0.0.0.0    3xfaktor.hu
 0.0.0.0    3xgangbangszexvideok.hu
 0.0.0.0    3xhay.pro
-0.0.0.0    3xhd.me
 0.0.0.0    3xingyenporno.hu
 0.0.0.0    3xinterracial.com
 0.0.0.0    3xmagazine.com
