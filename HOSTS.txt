@@ -29,7 +29,6 @@
 0.0.0.0    100boyself.com
 0.0.0.0    100bucksbabes.com
 0.0.0.0    100chicas.blogspot.com
-0.0.0.0    100dollars-seo.com
 0.0.0.0    100freeteenseries.com
 0.0.0.0    100nonude.biz
 0.0.0.0    100oj.booru.org
@@ -37,7 +36,6 @@
 0.0.0.0    101boyvideos.com
 0.0.0.0    101flag.ru
 0.0.0.0    101hentai.com
-0.0.0.0    101teengirls.com
 0.0.0.0    101top.biz
 0.0.0.0    1024videos.com
 0.0.0.0    102model.com
@@ -72,7 +70,6 @@
 0.0.0.0    150teengalleries.com
 0.0.0.0    156002.com
 0.0.0.0    159i.com
-0.0.0.0    15b37.skroc.pl
 0.0.0.0    15gts.tumblr.com
 0.0.0.0    15minadlt.hit.gemius.pl
 0.0.0.0    161sex.com
