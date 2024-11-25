@@ -53,7 +53,6 @@
 0.0.0.0    123avalon.tumblr.com
 0.0.0.0    123cha.com
 0.0.0.0    123ero.nl
-0.0.0.0    123fuli.top
 0.0.0.0    123gayporn.com
 0.0.0.0    123greetings.com
 0.0.0.0    123locker.com
