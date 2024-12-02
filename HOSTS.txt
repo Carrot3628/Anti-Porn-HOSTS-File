@@ -116,7 +116,6 @@
 0.0.0.0    18comic.org
 0.0.0.0    18comix.com
 0.0.0.0    18comix.org
-0.0.0.0    18commmic.com
 0.0.0.0    18dreams.net
 0.0.0.0    18dy.me
 0.0.0.0    18eighteen.com
@@ -232,7 +231,6 @@
 0.0.0.0    1on1.cam
 0.0.0.0    1on1.nl
 0.0.0.0    1pamm.ru
-0.0.0.0    1phimsex.vip
 0.0.0.0    1pondo.com
 0.0.0.0    1porn.press
 0.0.0.0    1pornlist.com
@@ -244,7 +242,6 @@
 0.0.0.0    1teensex.com
 0.0.0.0    1teentube.com
 0.0.0.0    1trannytube.com
-0.0.0.0    1virgins.net
 0.0.0.0    1watchmygf.com
 0.0.0.0    1wete.tumblr.com
 0.0.0.0    1xbet.com
