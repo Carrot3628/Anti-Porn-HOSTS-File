@@ -708,7 +708,6 @@
 0.0.0.0    aaannuairex.com
 0.0.0.0    aaaporn.net
 0.0.0.0    aabj.net
-0.0.0.0    aagmaal.cc
 0.0.0.0    aagmaal.club
 0.0.0.0    aagmaal.cyou
 0.0.0.0    aagmaal.fun
