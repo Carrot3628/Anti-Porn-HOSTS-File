@@ -267,8 +267,6 @@
 0.0.0.0    21sextreme.com
 0.0.0.0    21sextury.com
 0.0.0.0    22pixx.xyz
-0.0.0.0    24-info.pro
-0.0.0.0    24-xxx.biz
 0.0.0.0    24-xxx.com
 0.0.0.0    247analsex.com
 0.0.0.0    247asiansex.com
@@ -429,7 +427,6 @@
 0.0.0.0    3xcamsex.com
 0.0.0.0    3xeroticbabes.com
 0.0.0.0    3xerotika.hu
-0.0.0.0    3xeuroporn.com
 0.0.0.0    3xfaktor.hu
 0.0.0.0    3xgangbangszexvideok.hu
 0.0.0.0    3xhay.pro
@@ -563,7 +560,6 @@
 0.0.0.0    6789live.com
 0.0.0.0    69dmweye.info
 0.0.0.0    69games.xxx
-0.0.0.0    69luoli6.com
 0.0.0.0    69net.de
 0.0.0.0    69pornclips.com
 0.0.0.0    69run.fun
