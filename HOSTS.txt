@@ -640,7 +640,6 @@
 0.0.0.0    8teenbay.net
 0.0.0.0    8teenxxx.com
 0.0.0.0    8teenxxxhd.com
-0.0.0.0    8ten.club
 0.0.0.0    8thstreetlatinas.com
 0.0.0.0    8xxx.net
 0.0.0.0    8zoo.net
