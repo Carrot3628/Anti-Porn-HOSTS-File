@@ -148,12 +148,10 @@
 0.0.0.0    18phd.com
 0.0.0.0    18plusstream.net
 0.0.0.0    18porn.me
-0.0.0.0    18porn.pro
 0.0.0.0    18porn.sex
 0.0.0.0    18pornhd.com
 0.0.0.0    18porno.tv
 0.0.0.0    18pornsex.com
-0.0.0.0    18pornv.com
 0.0.0.0    18pornvideos.net
 0.0.0.0    18pussy.fun
 0.0.0.0    18putaria.blogspot.com
@@ -297,7 +295,6 @@
 0.0.0.0    2chen.moe
 0.0.0.0    2chickssametime.naughtyamerica.com
 0.0.0.0    2d-market.com
-0.0.0.0    2girls1cup.cc
 0.0.0.0    2jav.com
 0.0.0.0    2jav.net
 0.0.0.0    2knowu.tumblr.com
@@ -311,13 +308,11 @@
 0.0.0.0    2wjk.tumblr.com
 0.0.0.0    2xo.me
 0.0.0.0    2znp09oa.com
-0.0.0.0    3-d-c.com
 0.0.0.0    3.hdxprn.com
 0.0.0.0    31seconds.net
 0.0.0.0    321chat.com
 0.0.0.0    321escorts.com
 0.0.0.0    321sexchat.com
-0.0.0.0    321sexchat.fchat.net
 0.0.0.0    32red.it
 0.0.0.0    34.gs
 0.0.0.0    35p-cheap-phone-sex.com
@@ -656,7 +651,6 @@
 0.0.0.0    9453.me
 0.0.0.0    9911tv.com
 0.0.0.0    999fitness.com
-0.0.0.0    999hentai.to
 0.0.0.0    999hentai.tv
 0.0.0.0    999live.app
 0.0.0.0    999ways.blogspot.co.uk
@@ -678,7 +672,6 @@
 0.0.0.0    a-nj.1rx.io
 0.0.0.0    a-novinha.blogspot.com
 0.0.0.0    a-putaria.blogspot.com
-0.0.0.0    a.dynad.net
 0.0.0.0    a.thefrappening.so
 0.0.0.0    a.twiago.com
 0.0.0.0    a.update.51edm.net
