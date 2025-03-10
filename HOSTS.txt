@@ -389,7 +389,6 @@
 0.0.0.0    3gpporn.org
 0.0.0.0    3gpsextube.co
 0.0.0.0    3guys1hammer.ws
-0.0.0.0    3hentai.icu
 0.0.0.0    3hentai.net
 0.0.0.0    3homevideo.com
 0.0.0.0    3isx.com
@@ -639,7 +638,6 @@
 0.0.0.0    8zoo.net
 0.0.0.0    911asians.com
 0.0.0.0    91mh.co
-0.0.0.0    91pornos.xyz
 0.0.0.0    91pornplus.com
 0.0.0.0    91porny.com
 0.0.0.0    dz91.gitbook.io
