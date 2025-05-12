@@ -381,7 +381,6 @@
 0.0.0.0    3isx.com
 0.0.0.0    3jicosplay.blog.fc2.com
 0.0.0.0    3movs.com
-0.0.0.0    3movs.fun
 0.0.0.0    3movs.xyz
 0.0.0.0    3naked.com
 0.0.0.0    3peaks.co.jp
