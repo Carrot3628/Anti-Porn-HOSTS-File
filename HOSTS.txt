@@ -566,13 +566,11 @@
 0.0.0.0    777porn.com
 0.0.0.0    77search.com
 0.0.0.0    7andgoingstrong.tumblr.com
-0.0.0.0    7cfmnf.top
 0.0.0.0    7chan.org
 0.0.0.0    7fb.ru
 0.0.0.0    7feel.net
 0.0.0.0    7mag.net
 0.0.0.0    7mmtv.sx
-0.0.0.0    7sex.org
 0.0.0.0    7x3.net
 0.0.0.0    7zip.fr
 0.0.0.0    8-muses.xyz
