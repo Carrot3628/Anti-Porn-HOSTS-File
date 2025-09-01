@@ -350,7 +350,6 @@
 0.0.0.0    3gpsextube.co
 0.0.0.0    3guys1hammer.ws
 0.0.0.0    3hentai.net
-0.0.0.0    3homevideo.com
 0.0.0.0    3isx.com
 0.0.0.0    3jicosplay.blog.fc2.com
 0.0.0.0    3movs.com
@@ -472,7 +471,6 @@
 0.0.0.0    555.porn
 0.0.0.0    560pmovie.com
 0.0.0.0    567live.win
-0.0.0.0    567liveapp.net
 0.0.0.0    567lives.com
 0.0.0.0    567lives.top
 0.0.0.0    5escorts.com
