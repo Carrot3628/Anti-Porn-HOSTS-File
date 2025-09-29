@@ -438,7 +438,6 @@
 0.0.0.0    4pig.com
 0.0.0.0    4plaisir.com
 0.0.0.0    4porn.com
-0.0.0.0    4porn.hu
 0.0.0.0    4porn4.com
 0.0.0.0    4pornhd.com
 0.0.0.0    4porno.com.br
@@ -760,7 +759,6 @@
 0.0.0.0    actontv.122.2o7.net
 0.0.0.0    actorpornovenezuela.blogspot.com
 0.0.0.0    actreeshollywoodusa.blogspot.com
-0.0.0.0    actricesmexicanasdesnudas.com
 0.0.0.0    actuallysheep.com
 0.0.0.0    actuallysnake.com
 0.0.0.0    ad-hentai.com
