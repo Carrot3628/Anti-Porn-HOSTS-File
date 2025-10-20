@@ -280,7 +280,6 @@
 0.0.0.0    2wjk.tumblr.com
 0.0.0.0    2xo.me
 0.0.0.0    2znp09oa.com
-0.0.0.0    3.hdxprn.com
 0.0.0.0    321chat.com
 0.0.0.0    321escorts.com
 0.0.0.0    321sexchat.com
@@ -442,7 +441,6 @@
 0.0.0.0    4porno.com.br
 0.0.0.0    4pornxxx.com
 0.0.0.0    4qinvite.4q.iperceptions.com
-0.0.0.0    4sex4.com
 0.0.0.0    4sexwebcams.com
 0.0.0.0    4tube.com
 0.0.0.0    4tube.hu
@@ -556,7 +554,6 @@
 0.0.0.0    8erotica.com
 0.0.0.0    8kpornmovies.com
 0.0.0.0    8kpornvids.com
-0.0.0.0    8kun.top
 0.0.0.0    8muses-io.zproxy.org
 0.0.0.0    8muses.com
 0.0.0.0    8muses.download
@@ -619,7 +616,6 @@
 0.0.0.0    aagmaal.cyou
 0.0.0.0    aagmaal.fun
 0.0.0.0    aagmaal.in
-0.0.0.0    aagmaal.live
 0.0.0.0    aagmaal.org
 0.0.0.0    aagmaal.run
 0.0.0.0    aagmaals.com
