@@ -47,7 +47,6 @@
 0.0.0.0    121phonesex.co.uk
 0.0.0.0    123avalon.tumblr.com
 0.0.0.0    123cha.com
-0.0.0.0    123ero.nl
 0.0.0.0    123gayporn.com
 0.0.0.0    123greetings.com
 0.0.0.0    123locker.com
@@ -152,7 +151,6 @@
 0.0.0.0    18teenporn.site
 0.0.0.0    18teenporno.tv
 0.0.0.0    18teenpornpics.com
-0.0.0.0    18teenpussyfuck.com
 0.0.0.0    18teensex.me
 0.0.0.0    18teensex.tv
 0.0.0.0    18teentube.tv
@@ -576,7 +574,6 @@
 0.0.0.0    999fitness.com
 0.0.0.0    999live.app
 0.0.0.0    999ways.blogspot.co.uk
-0.0.0.0    99aiai.net
 0.0.0.0    99cams.com
 0.0.0.0    99classic.com
 0.0.0.0    99xxxtube.com
