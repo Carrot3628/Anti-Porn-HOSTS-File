@@ -129,7 +129,6 @@
 0.0.0.0    18moviesonline.org
 0.0.0.0    18nakedgirls.com
 0.0.0.0    18nudeteens.net
-0.0.0.0    18onlybabes.com
 0.0.0.0    18onlygirls.tv
 0.0.0.0    18paradise.com
 0.0.0.0    18porn.me
@@ -514,7 +513,6 @@
 0.0.0.0    777my.com
 0.0.0.0    777partner.com
 0.0.0.0    777porn.com
-0.0.0.0    77search.com
 0.0.0.0    7andgoingstrong.tumblr.com
 0.0.0.0    7chan.org
 0.0.0.0    7fb.ru
