@@ -403,7 +403,6 @@
 0.0.0.0    40ozbounce.com
 0.0.0.0    40pussy.net
 0.0.0.0    40somethingmag.com
-0.0.0.0    40svintageporn.com
 0.0.0.0    411-singles.com
 0.0.0.0    420chan.org
 0.0.0.0    422653.parkingcrew.net
@@ -469,7 +468,6 @@
 0.0.0.0    5wh.co.zw
 0.0.0.0    60granny.com
 0.0.0.0    60plusmilfs.com
-0.0.0.0    60svintgeporn.com
 0.0.0.0    628701.site123.me
 0.0.0.0    6297373.com
 0.0.0.0    640020.tumblr.com
@@ -506,7 +504,6 @@
 0.0.0.0    6xxxvideos.com
 0.0.0.0    7-7-7-partner.org
 0.0.0.0    70spornstars.blogspot.com
-0.0.0.0    70sretroporn.com
 0.0.0.0    7500.com
 0.0.0.0    777.porn
 0.0.0.0    777livecams.com
