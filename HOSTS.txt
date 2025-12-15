@@ -187,7 +187,6 @@
 0.0.0.0    1ejaculationinterne.com
 0.0.0.0    1g1c.puba.com
 0.0.0.0    1gavcom.popunder.ru
-0.0.0.0    1germanporn.com
 0.0.0.0    1hentai.org
 0.0.0.0    1ladyboytube.com
 0.0.0.0    1leak.com
@@ -456,7 +455,6 @@
 0.0.0.0    555.porn
 0.0.0.0    560pmovie.com
 0.0.0.0    567live.win
-0.0.0.0    567lives.com
 0.0.0.0    567lives.top
 0.0.0.0    5escorts.com
 0.0.0.0    5finder.com
