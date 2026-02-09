@@ -583,7 +583,6 @@
 0.0.0.0    aaaporn.net
 0.0.0.0    aabj.net
 0.0.0.0    aagmaal.club
-0.0.0.0    aagmaal.cyou
 0.0.0.0    aagmaal.fun
 0.0.0.0    aagmaal.in
 0.0.0.0    aagmaal.org
