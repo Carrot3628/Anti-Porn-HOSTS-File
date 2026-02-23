@@ -301,7 +301,6 @@
 0.0.0.0    3dporn.vip
 0.0.0.0    3dporndude.com
 0.0.0.0    3dpornmovies.blogspot.com
-0.0.0.0    3dpornxxx.com
 0.0.0.0    3dsex.pro
 0.0.0.0    3dsex247.com
 0.0.0.0    3dsexcomics.pro
@@ -499,7 +498,6 @@
 0.0.0.0    7chan.org
 0.0.0.0    7fb.ru
 0.0.0.0    7feel.net
-0.0.0.0    7mag.net
 0.0.0.0    7mmtv.sx
 0.0.0.0    7x3.net
 0.0.0.0    7zip.fr
