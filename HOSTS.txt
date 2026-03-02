@@ -563,7 +563,6 @@
 0.0.0.0    a-nj.1rx.io
 0.0.0.0    a-novinha.blogspot.com
 0.0.0.0    a-putaria.blogspot.com
-0.0.0.0    a.thefrappening.so
 0.0.0.0    a.twiago.com
 0.0.0.0    a.update.51edm.net
 0.0.0.0    a.videobaba.xyz
@@ -625,7 +624,6 @@
 0.0.0.0    abgirlanddaddy.tumblr.com
 0.0.0.0    abgirlsindiapers.tumblr.com
 0.0.0.0    abieehan.blogspot.com
-0.0.0.0    abigailmac.puba.com
 0.0.0.0    abitetona.blogspot.com
 0.0.0.0    abl-angels.deluxepass.com
 0.0.0.0    ablackbook.blogspot.com
