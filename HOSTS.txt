@@ -587,7 +587,6 @@
 0.0.0.0    abbiemaley.com
 0.0.0.0    abbiemaleyclub.blogspot.com
 0.0.0.0    abbyaae.angelfire.com
-0.0.0.0    abbygirlgirl.com
 0.0.0.0    abbygirlz.com
 0.0.0.0    abbywinters.adultsites.co
 0.0.0.0    abbywinters.com
