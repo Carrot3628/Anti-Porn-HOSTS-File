@@ -14,7 +14,6 @@
 0.0.0.0    0q2.sitey.me
 0.0.0.0    0xxx-ws.zproxy.org
 0.0.0.0    0xxx.ws
-0.0.0.0    1-free-share-buttons.com
 0.0.0.0    1-porn.com
 0.0.0.0    1.nenyda.com
 0.0.0.0    1000giribest.com
