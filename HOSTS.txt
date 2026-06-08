@@ -172,7 +172,6 @@
 0.0.0.0    1directory.ru
 0.0.0.0    1g1c.puba.com
 0.0.0.0    1gavcom.popunder.ru
-0.0.0.0    1hentai.org
 0.0.0.0    1ladyboytube.com
 0.0.0.0    1leak.com
 0.0.0.0    1nudism.com
