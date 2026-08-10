@@ -30,7 +30,6 @@
 0.0.0.0    101boyvideos.com
 0.0.0.0    101flag.ru
 0.0.0.0    1024videos.com
-0.0.0.0    102model.com
 0.0.0.0    104231.dtiblog.com
 0.0.0.0    10bestlivecamsites.com
 0.0.0.0    1111modza.xyz
