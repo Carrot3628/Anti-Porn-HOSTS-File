@@ -45,7 +45,6 @@
 0.0.0.0    123greetings.com
 0.0.0.0    123locker.com
 0.0.0.0    123plays.com
-0.0.0.0    123sex.top
 0.0.0.0    123video.nl
 0.0.0.0    12xhardcore.com
 0.0.0.0    1337x.freepornxxxhd.com
